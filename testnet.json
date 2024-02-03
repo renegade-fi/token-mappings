@@ -143,6 +143,18 @@
             "ticker": "ENS",
             "address": "0xee46871eb341fff7740f68f9c7d5ca7313f7c666",
             "decimals": 18
+        },
+        {
+            "name": "DYDX",
+            "ticker": "DYDX",
+            "address": "0x5b0ccd3313f5d29c38df448a3e79346947375d40",
+            "decimals": 18
+        },
+        {
+            "name": "CRV",
+            "ticker": "CRV",
+            "address": "0x70ba5bc0187bf143b6a7273fe664ab75636cf63e",
+            "decimals": 18
         }
     ]
 }
