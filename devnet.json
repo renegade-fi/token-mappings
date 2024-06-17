@@ -85,8 +85,8 @@
             "decimals": 18
         },
         {
-            "name": "REN",
-            "ticker": "REN",
+            "name": "ARB",
+            "ticker": "ARB",
             "address": "0xdb3f4ecb0298238a19ec5afd087c6d9df8041919",
             "decimals": 18
         },
