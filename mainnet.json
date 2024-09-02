@@ -95,6 +95,30 @@
             "ticker": "COMP",
             "address": "0x354a6da3fcde098f8389cad84b0182725c6c91de",
             "decimals": 18
+        },
+        {
+            "name": "AAVE",
+            "ticker": "AAVE",
+            "address": "0xba5ddd1f9d7f570dc94a51479a000e3bce967196",
+            "decimals": 18
+        },
+        {
+            "name": "XAI",
+            "ticker": "XAI",
+            "address": "0x4cb9a7ae498cedcbb5eae9f25736ae7d428c9d66",
+            "decimals": 18
+        },
+        {
+            "name": "RDNT",
+            "ticker": "RDNT",
+            "address": "0x3082cc23568ea640225c2467653db90e9250aaa0",
+            "decimals": 18
+        },
+        {
+            "name": "ETHFI",
+            "ticker": "ETHFI",
+            "address": "0x7189fb5b6504bbff6a852b13b7b82a3c118fdc27",
+            "decimals": 18
         }
     ]
 }
