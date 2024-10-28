@@ -1,118 +1,118 @@
 {
-    "tokens": [
-        {
-            "name": "WBTC",
-            "ticker": "WBTC",
-            "address": "0xa91d929ea161688448f61cb3865a6d948d8bd904",
-            "decimals": 18
-        },
-        {
-            "name": "WETH",
-            "ticker": "WETH",
-            "address": "0xbf3790ea84817a889d75fbd61acfcac998b77143",
-            "decimals": 18
-        },
-        {
-            "name": "BNB",
-            "ticker": "BNB",
-            "address": "0x7c62418966d2594237de7e4c40b90f7a2f0173b2",
-            "decimals": 18
-        },
-        {
-            "name": "MATIC",
-            "ticker": "MATIC",
-            "address": "0x6574324a9903c720636bddabfa2ab36f1deb31d6",
-            "decimals": 18
-        },
-        {
-            "name": "LDO",
-            "ticker": "LDO",
-            "address": "0x23d5ae9f0f95159fdc17c3dc7749190cb434ba58",
-            "decimals": 18
-        },
-        {
-            "name": "USDC",
-            "ticker": "USDC",
-            "address": "0x404b26cd9055b35581c68ba9a2b878cca971b0a7",
-            "decimals": 18
-        },
-        {
-            "name": "USDT",
-            "ticker": "USDT",
-            "address": "0xd4e2cba1461446b242d10a1cba212cf9cb6ce3af",
-            "decimals": 18
-        },
-        {
-            "name": "LINK",
-            "ticker": "LINK",
-            "address": "0xae4fa2ff546ee06fd707ce82bd11a4095d243df8",
-            "decimals": 18
-        },
-        {
-            "name": "UNI",
-            "ticker": "UNI",
-            "address": "0x5a8866f076426aacf388e9e22726c2d345e4d0d0",
-            "decimals": 18
-        },
-        {
-            "name": "SUSHI",
-            "ticker": "SUSHI",
-            "address": "0x39f8fcc423bf2449006f39a61b49c222a92b0f1f",
-            "decimals": 18
-        },
-        {
-            "name": "1INCH",
-            "ticker": "1INCH",
-            "address": "0x329f092907a0097ba6ce11fd2a816f83a920262c",
-            "decimals": 18
-        },
-        {
-            "name": "AAVE",
-            "ticker": "AAVE",
-            "address": "0xe559d8a78dad9a439edd7077e67326f356058e30",
-            "decimals": 18
-        },
-        {
-            "name": "COMP",
-            "ticker": "COMP",
-            "address": "0x9baf090faa282cb1a41cd182e94938ee0cce2256",
-            "decimals": 18
-        },
-        {
-            "name": "MKR",
-            "ticker": "MKR",
-            "address": "0x65f22fd93a7a3f8fb829633dc7d7ac459446e246",
-            "decimals": 18
-        },
-        {
-            "name": "REN",
-            "ticker": "REN",
-            "address": "0x63db70c08c538a0f7ee2a4fe6d78ef8ba38f8b49",
-            "decimals": 18
-        },
-        {
-            "name": "MANA",
-            "ticker": "MANA",
-            "address": "0xed7e114263c066186e8705e9c420ddab440b40d6",
-            "decimals": 18
-        },
-        {
-            "name": "ENS",
-            "ticker": "ENS",
-            "address": "0x0f558fd33205824e356bf816642304a70e6bf3d7",
-            "decimals": 18
-        },
-        {
-            "name": "DYDX",
-            "ticker": "DYDX",
-            "address": "0x5d61312089ffe5f5de8aa1f830a064e6a3285754",
-            "decimals": 18
-        },
-        {
-            "name": "CRV",
-            "ticker": "CRV",
-            "address": "0x262686846fbeeecd64d8df474f8b32ad07c0285b",
-            "decimals": 18
-        }
-    ]
+  "tokens": [
+    {
+      "name": "USD Coin",
+      "ticker": "USDC",
+      "address": "0xdf8d259c04020562717557f2b5a3cf28e92707d1",
+      "decimals": 6
+    },
+    {
+      "name": "Tether USD",
+      "ticker": "USDT",
+      "address": "0x8fda47a4d2885e5aeba699ad967f15e3d9c4e1f7",
+      "decimals": 6
+    },
+    {
+      "name": "Wrapped BTC",
+      "ticker": "WBTC",
+      "address": "0xa6ef8d1359e3be0d091c6339ff74d157d078c46e",
+      "decimals": 8
+    },
+    {
+      "name": "Wrapped Ether",
+      "ticker": "WETH",
+      "address": "0xcf8a4dbdc5c23a599bf045784b3740b1722c86dd",
+      "decimals": 18
+    },
+    {
+      "name": "Arbitrum",
+      "ticker": "ARB",
+      "address": "0x91bc4f29b85e8000a090dc894617729c71db4fbd",
+      "decimals": 18
+    },
+    {
+      "name": "GMX",
+      "ticker": "GMX",
+      "address": "0x6840d04f30f645697549c7ab852ddf022bccf7b7",
+      "decimals": 18
+    },
+    {
+      "name": "Pendle",
+      "ticker": "PENDLE",
+      "address": "0x276e66034cdf2e10a98999be78307bdfb4aa26ef",
+      "decimals": 18
+    },
+    {
+      "name": "Lido DAO Token",
+      "ticker": "LDO",
+      "address": "0xb6447ee182e04d987cfc29a96270da7865550058",
+      "decimals": 18
+    },
+    {
+      "name": "ChainLink Token",
+      "ticker": "LINK",
+      "address": "0x50348f82e1ec4f76979f8b98f2729370a3971b1f",
+      "decimals": 18
+    },
+    {
+      "name": "Curve DAO Token",
+      "ticker": "CRV",
+      "address": "0x017dc958eb7171de1127829bd12a9939778ea8dd",
+      "decimals": 18
+    },
+    {
+      "name": "Uniswap",
+      "ticker": "UNI",
+      "address": "0x61f23c9d60e04509c9d732d395951027cb44995d",
+      "decimals": 18
+    },
+    {
+      "name": "LayerZero",
+      "ticker": "ZRO",
+      "address": "0x3953496267860cf93ba2675c23f1e4c278f58767",
+      "decimals": 18
+    },
+    {
+      "name": "Livepeer Token",
+      "ticker": "LPT",
+      "address": "0x410c082fd0e7b49d68b021215720166c296dde98",
+      "decimals": 18
+    },
+    {
+      "name": "Graph Token",
+      "ticker": "GRT",
+      "address": "0x5267cf9eadf73c4b1a21dc2a0f6115c504b53373",
+      "decimals": 18
+    },
+    {
+      "name": "Compound",
+      "ticker": "COMP",
+      "address": "0x8c7ab63b908b7575fba683c5ac6d6a1056ed2e79",
+      "decimals": 18
+    },
+    {
+      "name": "Aave Token",
+      "ticker": "AAVE",
+      "address": "0x5d0aa5cfed1b4ad46c6a5226ec7a6b534e972766",
+      "decimals": 18
+    },
+    {
+      "name": "Xai",
+      "ticker": "XAI",
+      "address": "0x4c42b54a35889e05b74f7507c7b4fc1e991315fa",
+      "decimals": 18
+    },
+    {
+      "name": "Radiant",
+      "ticker": "RDNT",
+      "address": "0xd54c59fbcfef1efc66bc04dc1ca7a05b94aa6d41",
+      "decimals": 18
+    },
+    {
+      "name": "Ether.fi",
+      "ticker": "ETHFI",
+      "address": "0xbee99458378e4742046414659e93b1c6e52228b",
+      "decimals": 18
+    }
+  ]
 }
