@@ -11,7 +11,7 @@
         "Kraken": "USD",
         "Okx": "USDC"
       },
-      "remote_deployments": {
+      "chain_addresses": {
         "1": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
         "1151111081099710": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
       },
@@ -40,7 +40,7 @@
         "Kraken": "BTC",
         "Okx": "WBTC"
       },
-      "remote_deployments": {
+      "chain_addresses": {
         "1": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
       },
       "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/testnet-token-logos/wbtc.png"
@@ -56,7 +56,7 @@
         "Kraken": "ETH",
         "Okx": "ETH"
       },
-      "remote_deployments": {
+      "chain_addresses": {
         "1": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
       },
       "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/testnet-token-logos/weth.png"
@@ -95,7 +95,7 @@
         "Binance": "PENDLE",
         "Kraken": "PENDLE"
       },
-      "remote_deployments": {
+      "chain_addresses": {
         "1": "0x808507121b80c02388fad14726482e061b8da827"
       },
       "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/testnet-token-logos/pendle.png"
@@ -111,7 +111,7 @@
         "Kraken": "LDO",
         "Okx": "LDO"
       },
-      "remote_deployments": {
+      "chain_addresses": {
         "1": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32"
       },
       "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/testnet-token-logos/ldo.png"
@@ -127,7 +127,7 @@
         "Kraken": "LINK",
         "Okx": "LINK"
       },
-      "remote_deployments": {
+      "chain_addresses": {
         "1": "0x514910771AF9Ca656af840dff83E8264EcF986CA"
       },
       "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/testnet-token-logos/link.png"
@@ -143,7 +143,7 @@
         "Kraken": "CRV",
         "Okx": "CRV"
       },
-      "remote_deployments": {
+      "chain_addresses": {
         "1": "0xD533a949740bb3306d119CC777fa900bA034cd52"
       },
       "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/testnet-token-logos/crv.png"
@@ -159,7 +159,7 @@
         "Kraken": "UNI",
         "Okx": "UNI"
       },
-      "remote_deployments": {
+      "chain_addresses": {
         "1": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984"
       },
       "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/testnet-token-logos/uni.png"
@@ -175,7 +175,7 @@
         "Kraken": "ZRO",
         "Okx": "ZRO"
       },
-      "remote_deployments": {
+      "chain_addresses": {
         "1": "0x6985884C4392D348587B19cb9eAAf157F13271cd"
       },
       "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/testnet-token-logos/zro.png"
@@ -191,7 +191,7 @@
         "Kraken": "LPT",
         "Okx": "LPT"
       },
-      "remote_deployments": {
+      "chain_addresses": {
         "1": "0x58b6A8A3302369DAEc383334672404Ee733aB239"
       },
       "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/testnet-token-logos/lpt.png"
@@ -207,7 +207,7 @@
         "Kraken": "GRT",
         "Okx": "GRT"
       },
-      "remote_deployments": {
+      "chain_addresses": {
         "1": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7"
       },
       "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/testnet-token-logos/grt.png"
@@ -223,7 +223,7 @@
         "Kraken": "COMP",
         "Okx": "COMP"
       },
-      "remote_deployments": {
+      "chain_addresses": {
         "1": "0xc00e94Cb662C3520282E6f5717214004A7f26888"
       },
       "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/testnet-token-logos/comp.png"
@@ -239,7 +239,7 @@
         "Kraken": "AAVE",
         "Okx": "AAVE"
       },
-      "remote_deployments": {
+      "chain_addresses": {
         "1": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9"
       },
       "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/testnet-token-logos/aave.png"
@@ -263,7 +263,7 @@
         "Binance": "RDNT",
         "Okx": "RDNT"
       },
-      "remote_deployments": {
+      "chain_addresses": {
         "1": "0x137dDB47Ee24EaA998a535Ab00378d6BFa84F893"
       },
       "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/testnet-token-logos/rdnt.png"
@@ -277,7 +277,7 @@
         "Binance": "ETHFI",
         "Okx": "ETHFI"
       },
-      "remote_deployments": {
+      "chain_addresses": {
         "1": "0xFe0c30065B384F05761f15d0CC899D4F9F9Cc0eB"
       },
       "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/testnet-token-logos/ethfi.png"
