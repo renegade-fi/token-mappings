@@ -27,7 +27,8 @@
         "Coinbase": "USD",
         "Kraken": "USD",
         "Okx": "USDT"
-      }
+      },
+      "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/usdt.png"
     },
     {
       "name": "Wrapped BTC",
