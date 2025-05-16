@@ -1,0 +1,52 @@
+{
+    "tokens": [
+        {
+            "name": "USD Coin",
+            "ticker": "USDC",
+            "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "decimals": 6,
+            "supported_exchanges": {
+                "Binance": "USDC",
+                "Coinbase": "USD",
+                "Kraken": "USD",
+                "Okx": "USDC"
+            }
+        },
+        {
+            "name": "Tether USD",
+            "ticker": "USDT",
+            "address": "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2",
+            "decimals": 6,
+            "supported_exchanges": {
+                "Binance": "USDT",
+                "Coinbase": "USD",
+                "Kraken": "USD",
+                "Okx": "USDT"
+            }
+        },
+        {
+            "name": "Coinbase Wrapped BTC",
+            "ticker": "cbBTC",
+            "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+            "decimals": 8,
+            "supported_exchanges": {
+                "Binance": "WBTC",
+                "Coinbase": "BTC",
+                "Kraken": "BTC",
+                "Okx": "WBTC"
+            }
+        },
+        {
+            "name": "Wrapped Ether",
+            "ticker": "WETH",
+            "address": "0x4200000000000000000000000000000000000006",
+            "decimals": 18,
+            "supported_exchanges": {
+                "Binance": "ETH",
+                "Coinbase": "ETH",
+                "Kraken": "ETH",
+                "Okx": "ETH"
+            }
+        }
+    ]
+}
