@@ -49,6 +49,18 @@
                 "Coinbase": "ETH",
                 "Kraken": "ETH",
                 "Okx": "ETH"
+            }
+        },
+        {
+            "name": "LayerZero",
+            "ticker": "ZRO",
+            "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+            "decimals": 18,
+            "supported_exchanges": {
+                "Binance": "ZRO",
+                "Coinbase": "ZRO",
+                "Kraken": "ZRO",
+                "Okx": "ZRO"
             },
             "canonical_exchange": "Binance"
         }
