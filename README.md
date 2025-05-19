@@ -1,9 +1,11 @@
 ### Renegade Token Mapping
+
 This repo holds token mappings for various networks and chains onto which Renegade is deployed.
 
 There is a separate mapping for each environment (e.g. Arbitrum testnet, Arbitrum mainnet) to which the Renegade protocol is deployed.
 
 The schema for the token mapping object is as follows, using the testnet USDC token as an example:
+
 ```javascript
 {
 "tokens": [
@@ -33,6 +35,10 @@ The schema for the token mapping object is as follows, using the testnet USDC to
       "Kraken": "USD",
       "Okx": "USDC"
     },
+    /*
+     * The canonical exchange providing the authoritative price of the token.
+     */
+    "canonical_exchange": "Binance",
     /*
      * A mapping from chain ID -> address at which the token is deployed
      * to on that chain.

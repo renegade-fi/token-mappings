@@ -10,7 +10,8 @@
                 "Coinbase": "USD",
                 "Kraken": "USD",
                 "Okx": "USDC"
-            }
+            },
+            "canonical_exchange": "Binance"
         },
         {
             "name": "Tether USD",
@@ -22,7 +23,8 @@
                 "Coinbase": "USD",
                 "Kraken": "USD",
                 "Okx": "USDT"
-            }
+            },
+            "canonical_exchange": "Binance"
         },
         {
             "name": "Coinbase Wrapped BTC",
@@ -34,7 +36,8 @@
                 "Coinbase": "BTC",
                 "Kraken": "BTC",
                 "Okx": "WBTC"
-            }
+            },
+            "canonical_exchange": "Coinbase"
         },
         {
             "name": "Wrapped Ether",
@@ -46,7 +49,8 @@
                 "Coinbase": "ETH",
                 "Kraken": "ETH",
                 "Okx": "ETH"
-            }
+            },
+            "canonical_exchange": "Binance"
         }
     ]
 }
