@@ -8,7 +8,7 @@
             "supported_exchanges": {
                 "Binance": "USDC",
                 "Coinbase": "USD",
-                "Kraken": "USD",
+                "Kraken": "USDC",
                 "Okx": "USDC"
             },
             "chain_addresses": {
