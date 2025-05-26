@@ -230,7 +230,7 @@
             "canonical_exchange": "Binance"
         },
         {
-            "name": "B3 (Base)",
+            "name": "B3",
             "ticker": "B3",
             "address": "0x161eb94Ba2EC02De93C15933Be0081e63899a760",
             "decimals": 18,

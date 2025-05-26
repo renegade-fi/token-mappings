@@ -53,6 +53,170 @@
             "canonical_exchange": "Binance"
         },
         {
+            "name": "Virtual Protocol",
+            "ticker": "VIRTUAL",
+            "address": "0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b",
+            "decimals": 18,
+            "supported_exchanges": {
+                "Binance": "VIRTUAL",
+                "Kraken": "VIRTUAL"
+            },
+            "canonical_exchange": "Binance"
+        },
+        {
+            "name": "Aerodrome",
+            "ticker": "AERO",
+            "address": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+            "decimals": 18,
+            "supported_exchanges": {
+                "Coinbase": "AERO",
+                "Kraken": "AERO"
+            },
+            "canonical_exchange": "Coinbase"
+        },
+        {
+            "name": "aixbt by Virtuals",
+            "ticker": "AIXBT",
+            "address": "0x4F9Fd6Be4a90f2620860d680c0d4d5Fb53d1A825",
+            "decimals": 18,
+            "supported_exchanges": {
+                "Binance": "AIXBT",
+                "Kraken": "AIXBT",
+                "Okx": "AIXBT"
+            },
+            "canonical_exchange": "Binance"
+        },
+        {
+            "name": "Zora",
+            "ticker": "ZORA",
+            "address": "0x1111111111166b7FE7bd91427724B487980aFc69",
+            "decimals": 18,
+            "supported_exchanges": {
+                "Coinbase": "ZORA",
+                "Kraken": "ZORA"
+            },
+            "canonical_exchange": "Coinbase"
+        },
+        {
+            "name": "Venice Token",
+            "ticker": "VVV",
+            "address": "0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf",
+            "decimals": 18,
+            "supported_exchanges": {
+                "Coinbase": "VVV",
+                "Kraken": "VVV"
+            },
+            "canonical_exchange": "Coinbase"
+        },
+        {
+            "name": "Degen",
+            "ticker": "DEGEN",
+            "address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+            "decimals": 18,
+            "supported_exchanges": {
+                "Coinbase": "DEGEN",
+                "Okx": "DEGEN"
+            },
+            "canonical_exchange": "Coinbase"
+        },
+        {
+            "name": "Toshi",
+            "ticker": "TOSHI",
+            "address": "0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+            "decimals": 18,
+            "supported_exchanges": {
+                "Coinbase": "TOSHI",
+                "Kraken": "TOSHI"
+            },
+            "canonical_exchange": "Coinbase"
+        },
+        {
+            "name": "doginme",
+            "ticker": "doginme",
+            "address": "0x6921B130D297cc43754afba22e5EAc0FBf8Db75b",
+            "decimals": 18,
+            "supported_exchanges": {
+                "Coinbase": "DOGINME"
+            },
+            "canonical_exchange": "Coinbase"
+        },
+        {
+            "name": "Keyboard Cat",
+            "ticker": "KEYCAT",
+            "address": "0x9a26F5433671751C3276a065f57e5a02D2817973",
+            "decimals": 18,
+            "supported_exchanges": {
+                "Coinbase": "KEYCAT"
+            },
+            "canonical_exchange": "Coinbase"
+        },
+        {
+            "name": "tokenbot",
+            "ticker": "CLANKER",
+            "address": "0x1bc0c42215582d5A085795f4baDbaC3ff36d1Bcb",
+            "decimals": 18,
+            "supported_exchanges": {
+                "Coinbase": "CLANKER"
+            },
+            "canonical_exchange": "Coinbase"
+        },
+        {
+            "name": "KAITO",
+            "ticker": "KAITO",
+            "address": "0x98d0baa52b2D063E780DE12F615f963Fe8537553",
+            "decimals": 18,
+            "supported_exchanges": {
+                "Binance": "KAITO",
+                "Coinbase": "KAITO",
+                "Kraken": "KAITO",
+                "Okx": "KAITO"
+            },
+            "canonical_exchange": "Binance"
+        },
+        {
+            "name": "SPX6900",
+            "ticker": "SPX",
+            "address": "0x50dA645f148798F68EF2d7dB7C1CB22A6819bb2C",
+            "decimals": 8,
+            "supported_exchanges": {
+                "Kraken": "SPX"
+            },
+            "canonical_exchange": "Kraken"
+        },
+        {
+            "name": "Morpho Token",
+            "ticker": "MORPHO",
+            "address": "0xBAa5CC21fd487B8Fcc2F632f3F4E8D37262a0842",
+            "decimals": 18,
+            "supported_exchanges": {
+                "Coinbase": "MORPHO",
+                "Kraken": "MORPHO",
+                "Okx": "MORPHO"
+            },
+            "canonical_exchange": "Coinbase"
+        },
+        {
+            "name": "Edge",
+            "ticker": "EDGE",
+            "address": "0xED6E000dEF95780fb89734c07EE2ce9F6dcAf110",
+            "decimals": 18,
+            "supported_exchanges": {
+                "Coinbase": "EDGE",
+                "Kraken": "EDGE"
+            },
+            "canonical_exchange": "Coinbase"
+        },
+        {
+            "name": "FAI",
+            "ticker": "FAI",
+            "address": "0xb33Ff54b9F7242EF1593d2C9Bcd8f9df46c77935",
+            "decimals": 18,
+            "supported_exchanges": {
+                "Coinbase": "FAI"
+            },
+            "canonical_exchange": "Coinbase"
+        },
+        {
             "name": "LayerZero",
             "ticker": "ZRO",
             "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
@@ -64,6 +228,17 @@
                 "Okx": "ZRO"
             },
             "canonical_exchange": "Binance"
+        },
+        {
+            "name": "B3",
+            "ticker": "B3",
+            "address": "0xB3B32F9f8827D4634fE7d973Fa1034Ec9fdDB3B3",
+            "decimals": 18,
+            "supported_exchanges": {
+                "Coinbase": "B3",
+                "Kraken": "B3"
+            },
+            "canonical_exchange": "Coinbase"
         }
     ]
 }
