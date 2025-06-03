@@ -11,6 +11,7 @@
                 "Kraken": "USDC",
                 "Okx": "USDC"
             },
+            "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/usdc.png",
             "canonical_exchange": "Binance"
         },
         {
@@ -24,6 +25,7 @@
                 "Kraken": "USD",
                 "Okx": "USDT"
             },
+            "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/usdt.png",
             "canonical_exchange": "Binance"
         },
         {
@@ -37,6 +39,7 @@
                 "Kraken": "BTC",
                 "Okx": "WBTC"
             },
+            "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/cbbtc.png",
             "canonical_exchange": "Coinbase"
         },
         {
@@ -50,6 +53,7 @@
                 "Kraken": "ETH",
                 "Okx": "ETH"
             },
+            "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/weth.png",
             "canonical_exchange": "Binance"
         },
         {
@@ -61,6 +65,7 @@
                 "Binance": "VIRTUAL",
                 "Kraken": "VIRTUAL"
             },
+            "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/virtual.png",
             "canonical_exchange": "Binance"
         },
         {
@@ -72,6 +77,7 @@
                 "Coinbase": "AERO",
                 "Kraken": "AERO"
             },
+            "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/aero.png",
             "canonical_exchange": "Coinbase"
         },
         {
@@ -84,6 +90,7 @@
                 "Kraken": "AIXBT",
                 "Okx": "AIXBT"
             },
+            "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/aixbt.png",
             "canonical_exchange": "Binance"
         },
         {
@@ -95,6 +102,7 @@
                 "Coinbase": "ZORA",
                 "Kraken": "ZORA"
             },
+            "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/zora.png",
             "canonical_exchange": "Coinbase"
         },
         {
@@ -106,6 +114,7 @@
                 "Coinbase": "VVV",
                 "Kraken": "VVV"
             },
+            "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/vvv.png",
             "canonical_exchange": "Coinbase"
         },
         {
@@ -117,6 +126,7 @@
                 "Coinbase": "DEGEN",
                 "Okx": "DEGEN"
             },
+            "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/degen.png",
             "canonical_exchange": "Coinbase"
         },
         {
@@ -128,6 +138,7 @@
                 "Coinbase": "TOSHI",
                 "Kraken": "TOSHI"
             },
+            "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/toshi.png",
             "canonical_exchange": "Coinbase"
         },
         {
@@ -138,6 +149,7 @@
             "supported_exchanges": {
                 "Coinbase": "DOGINME"
             },
+            "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/doginme.png",
             "canonical_exchange": "Coinbase"
         },
         {
@@ -148,6 +160,7 @@
             "supported_exchanges": {
                 "Coinbase": "KEYCAT"
             },
+            "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/keycat.png",
             "canonical_exchange": "Coinbase"
         },
         {
@@ -158,6 +171,7 @@
             "supported_exchanges": {
                 "Coinbase": "CLANKER"
             },
+            "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/clanker.png",
             "canonical_exchange": "Coinbase"
         },
         {
@@ -171,6 +185,7 @@
                 "Kraken": "KAITO",
                 "Okx": "KAITO"
             },
+            "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/kaito.png",
             "canonical_exchange": "Binance"
         },
         {
@@ -181,6 +196,7 @@
             "supported_exchanges": {
                 "Kraken": "SPX"
             },
+            "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/spx.png",
             "canonical_exchange": "Kraken"
         },
         {
@@ -193,6 +209,7 @@
                 "Kraken": "MORPHO",
                 "Okx": "MORPHO"
             },
+            "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/morpho.png",
             "canonical_exchange": "Coinbase"
         },
         {
@@ -204,6 +221,7 @@
                 "Coinbase": "EDGE",
                 "Kraken": "EDGE"
             },
+            "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/edge.png",
             "canonical_exchange": "Coinbase"
         },
         {
@@ -214,6 +232,7 @@
             "supported_exchanges": {
                 "Coinbase": "FAI"
             },
+            "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/fai.png",
             "canonical_exchange": "Coinbase"
         },
         {
@@ -227,6 +246,7 @@
                 "Kraken": "ZRO",
                 "Okx": "ZRO"
             },
+            "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/zro.png",
             "canonical_exchange": "Binance"
         },
         {
@@ -238,6 +258,7 @@
                 "Coinbase": "B3",
                 "Kraken": "B3"
             },
+            "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/b3.png",
             "canonical_exchange": "Coinbase"
         }
     ]
