@@ -50,7 +50,7 @@
                 "Kraken": "ETH",
                 "Okx": "ETH"
             },
-            "canonical_exchange": "Okx"
+            "canonical_exchange": "Binance"
         },
         {
             "name": "Virtual Protocol",
