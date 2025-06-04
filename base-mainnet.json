@@ -213,18 +213,6 @@
             "canonical_exchange": "Coinbase"
         },
         {
-            "name": "Edge",
-            "ticker": "EDGE",
-            "address": "0xED6E000dEF95780fb89734c07EE2ce9F6dcAf110",
-            "decimals": 18,
-            "supported_exchanges": {
-                "Coinbase": "EDGE",
-                "Kraken": "EDGE"
-            },
-            "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/edge.png",
-            "canonical_exchange": "Coinbase"
-        },
-        {
             "name": "FAI",
             "ticker": "FAI",
             "address": "0xb33Ff54b9F7242EF1593d2C9Bcd8f9df46c77935",
