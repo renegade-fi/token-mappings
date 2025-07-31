@@ -248,6 +248,18 @@
             },
             "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/b3.png",
             "canonical_exchange": "Coinbase"
+        },
+        {
+            "name": "Edge",
+            "ticker": "EDGE",
+            "address": "0xED6E000dEF95780fb89734c07EE2ce9F6dcAf110",
+            "decimals": 18,
+            "supported_exchanges": {
+                "Coinbase": "EDGE",
+                "Kraken": "EDGE"
+            },
+            "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/edge.png",
+            "canonical_exchange": "Coinbase"
         }
     ]
 }
