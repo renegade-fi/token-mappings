@@ -19,6 +19,20 @@
       "canonical_exchange": "Binance"
     },
     {
+        "name": "Tether USD",
+        "ticker": "USDT",
+        "address": "0xaA8E23Fb1079EA71e0a56F48a2aA51851D8433D0",
+        "decimals": 6,
+        "supported_exchanges": {
+            "Binance": "USDT",
+            "Coinbase": "USDT",
+            "Kraken": "USDT",
+            "Okx": "USDT"
+        },
+        "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/usdt.png",
+        "canonical_exchange": "Binance"
+    },
+    {
       "name": "ChainLink Token",
       "ticker": "LINK",
       "address": "0x779877A7B0D9E8603169DdbD7836e478b4624789",
