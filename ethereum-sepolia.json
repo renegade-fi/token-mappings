@@ -33,6 +33,20 @@
         "canonical_exchange": "Binance"
     },
     {
+        "name": "Wrapped Ether",
+        "ticker": "WETH",
+        "address": "0xC558DBdd856501FCd9aaF1E62eae57A9F0629a3c",
+        "decimals": 18,
+        "supported_exchanges": {
+            "Binance": "ETH",
+            "Coinbase": "ETH",
+            "Kraken": "ETH",
+            "Okx": "ETH"
+        },
+        "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/weth.png",
+        "canonical_exchange": "Binance"
+    },
+    {
       "name": "ChainLink Token",
       "ticker": "LINK",
       "address": "0x779877A7B0D9E8603169DdbD7836e478b4624789",
