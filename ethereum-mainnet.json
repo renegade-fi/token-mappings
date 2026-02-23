@@ -1,0 +1,46 @@
+{
+  "tokens": [
+    {
+      "name": "USD Coin",
+      "ticker": "USDC",
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "decimals": 6,
+      "supported_exchanges": {
+        "Binance": "USDC",
+        "Coinbase": "USD",
+        "Kraken": "USDC",
+        "Okx": "USDC"
+      },
+      "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/usdc.png",
+      "canonical_exchange": "Binance"
+    },
+    {
+        "name": "Tether USD",
+        "ticker": "USDT",
+        "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "decimals": 6,
+        "supported_exchanges": {
+            "Binance": "USDT",
+            "Coinbase": "USDT",
+            "Kraken": "USDT",
+            "Okx": "USDT"
+        },
+        "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/usdt.png",
+        "canonical_exchange": "Binance"
+    },
+    {
+        "name": "Wrapped Ether",
+        "ticker": "WETH",
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "decimals": 18,
+        "supported_exchanges": {
+            "Binance": "ETH",
+            "Coinbase": "ETH",
+            "Kraken": "ETH",
+            "Okx": "ETH"
+        },
+        "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/weth.png",
+        "canonical_exchange": "Binance"
+    }
+  ]
+}
