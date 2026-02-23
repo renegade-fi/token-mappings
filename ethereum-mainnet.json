@@ -41,6 +41,20 @@
         },
         "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/weth.png",
         "canonical_exchange": "Binance"
+    },
+    {
+        "name": "Wrapped BTC",
+        "ticker": "WBTC",
+        "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "decimals": 8,
+        "supported_exchanges": {
+            "Binance": "WBTC",
+            "Coinbase": "BTC",
+            "Kraken": "BTC",
+            "Okx": "WBTC"
+        },
+        "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/wbtc.png",
+        "canonical_exchange": "Binance"
     }
   ]
 }
