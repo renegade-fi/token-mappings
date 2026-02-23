@@ -11,10 +11,6 @@
         "Kraken": "USDC",
         "Okx": "USDC"
       },
-      "chain_addresses": {
-        "1": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-        "11155111": "0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238"
-      },
       "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/usdc.png",
       "canonical_exchange": "Binance"
     },
@@ -56,9 +52,6 @@
         "Coinbase": "LINK",
         "Kraken": "LINK",
         "Okx": "LINK"
-      },
-      "chain_addresses": {
-        "1": "0x514910771AF9Ca656af840dff83E8264EcF986CA"
       },
       "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/link.png",
       "canonical_exchange": "Binance"
