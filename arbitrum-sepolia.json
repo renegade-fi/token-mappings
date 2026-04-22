@@ -273,21 +273,6 @@
       "canonical_exchange": "Binance"
     },
     {
-      "name": "Radiant",
-      "ticker": "RDNT",
-      "address": "0xd54c59fbcfef1efc66bc04dc1ca7a05b94aa6d41",
-      "decimals": 18,
-      "supported_exchanges": {
-        "Binance": "RDNT",
-        "Okx": "RDNT"
-      },
-      "chain_addresses": {
-        "1": "0x137dDB47Ee24EaA998a535Ab00378d6BFa84F893"
-      },
-      "logo_url": "https://raw.githubusercontent.com/renegade-fi/token-mappings/refs/heads/main/token-logos/rdnt.png",
-      "canonical_exchange": "Binance"
-    },
-    {
       "name": "Ether.fi",
       "ticker": "ETHFI",
       "address": "0x5fcaeddd67bf47e638d6b8688f6f5f89654af28d",
